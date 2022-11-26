@@ -556,7 +556,7 @@ function handleAnimation() {
   (dashLen = 220),
     (dashOffset = dashLen),
     (speed = 5),
-    (txt = "Team_A "),
+    (txt = "Team_A 프로젝트"),
     (x = 30),
     (i = 0);
 
