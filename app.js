@@ -556,7 +556,7 @@ function handleAnimation() {
   (dashLen = 220),
     (dashOffset = dashLen),
     (speed = 5),
-    (txt = "STROKE-ON CANVAS"),
+    (txt = "Team_A "),
     (x = 30),
     (i = 0);
 
